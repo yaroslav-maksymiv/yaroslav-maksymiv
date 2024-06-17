@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Yaroslav
-- 👀 I’m interested in web development (mainly backend)
-- 🌱 I’m currently improving my skills in React and Django
+<h1>Hi, I’m Yaroslav.<h1>
 
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-yaroslav-maksymiv/yaroslav-maksymiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h6>Skills 🔨</h6>
+Tech languages: Python, JavaScript, TypeScript, HTML/CSS, SCSS, SQL
+Technologies/Frameworks: Django, React, PostgreSQL, Git, Bash
+Tools: VS Code, PyCharm, Visual Studio, Postman
+
